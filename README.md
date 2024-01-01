@@ -9,9 +9,7 @@ This repository hosts a collection of Jupyter notebooks dedicated to exploring t
 - [Introduction](#introduction)
 - [Model Overview](#model-overview)
 - [Attention Mechanism](#attention-mechanism)
-- [Implementation](#implementation)
 - [Evaluation](#evaluation)
-- [Dependencies](#dependencies)
 - [How to Run](#how-to-run)
 
 ## Introduction
